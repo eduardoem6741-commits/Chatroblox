@@ -6,7 +6,7 @@ local UserInput = game:GetService("UserInputService")
 
 -- 1. CONFIG
 local API_URL = "https://robloxglobalchat-217f7-default-rtdb.firebaseio.com/chat.json"
-local myUserId = 8615238851 
+local myUserId = 8615238851,10656813651
 local specialTags = {[myUserId] = "👑 OWNER"}
 
 local useAlias, hideGame, hidePlatform = false, false, false
